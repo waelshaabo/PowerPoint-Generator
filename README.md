@@ -8,7 +8,7 @@ Clone the repo:
 ```commandline
 git clone https://github.com/waelshaabo/PowerPoint-Generator
 
-cd PowerPoint Generator
+cd PowerPoint-Generator
 ```
 
 then, create a virtual environment and install packages.
